@@ -159,6 +159,7 @@ You can keep iterating like this forever – you can never run out of Coffee! �
 - [Draw a UI](https://github.com/SawyerHood/draw-a-ui) - ditto!
 - [Cursor](https://cursor.sh/) - AI-native IDE that the Coframe team uses and loves 🥰
   - Coffee can be used in any IDE, but we're huge fans of Cursor and are excited to see what they launch next!
+- [Fynix](https://www.fynix.ai/) - Fynix combines real-time AI coding assistance with agent-powered code reviews. Write smarter, faster, and cleaner code.
 
 ## Community
 
